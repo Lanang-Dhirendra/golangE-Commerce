@@ -1,1 +1,2 @@
-# golangE-Commerce_V1
+# E-Commerce v1
+simple project using golang
